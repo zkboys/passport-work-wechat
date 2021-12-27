@@ -1,6 +1,6 @@
 {
   "name": "passport-work-wechat",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Passport Strategy for Wechat Work Account/企业微信二维码登录",
   "main": "index.js",
   "scripts": {
