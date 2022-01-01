@@ -1,4 +1,4 @@
-# passport-work-wechat
+# @zkboys/passport-work-wechat
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Wechat Work Accounts](https://work.weixin.qq.com/)
 using the OAuth 2.0 API.
@@ -8,7 +8,7 @@ using the OAuth 2.0 API.
 ## 安装
 
 ```bash
-$ npm install passport-work-wechat
+$ npm install @zkboys/passport-work-wechat
 ```
 
 ## 使用
